@@ -24,8 +24,8 @@ h2,
 h3,
 h4,
 h5,
-.texto {
-    color: aliceblue;
+p {
+    color: white;
 }
 
 p{
@@ -35,7 +35,7 @@ p{
 
 @media (max-width: 769px) {
     iframe {
-        width: 330px;
+        width: 300px;
         margin: 20px 0;
     }
 }
