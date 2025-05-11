@@ -5,7 +5,7 @@
 
 body {
     /*background-color: rgb(139, 84, 79);*/
-    background: linear-gradient(rgb(230, 142, 134), rgb(193, 116, 109));
+    background: linear-gradient(rgb(255, 171, 163), rgb(245, 152, 144));
     display: flex;
     flex-direction: column;
     align-items: center;
